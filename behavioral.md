@@ -1,0 +1,24 @@
+# Uber frequently questions
+-  Cuéntame sobre ti.
+-  ¿Por qué quieres trabajar para Uber?
+-  Dime lo que sabes sobre Uber.
+-  ¿Cuáles son las habilidades y cualidades más importantes necesarias para trabajar en Uber?
+-  Hábleme de una vez que resolvió un desacuerdo con un miembro del equipo.
+-  ¿Cuáles son sus fortalezas y debilidades?
+-  ¿Qué significa para usted un excelente servicio al cliente?
+-  ¿Cómo priorizas tu trabajo?
+-  ¿Por qué deberíamos contratarte para trabajar en Uber?
+-  Hábleme de un problema que tuvo que resolver en un puesto anterior.
+-  ¿Cómo gestionarías un proyecto de principio a fin?
+-  Si necesitara información importante de un experto rápidamente pero no respondiera, ¿qué haría?
+-  ¿Qué no le gustó de su último trabajo?
+-  Describe un momento en el que recibiste comentarios constructivos de alguien. ¿Cómo respondiste a los comentarios? 
+-  Hábleme de un momento en el que fue más allá de lo que se requería.
+-  Hábleme de un momento en el que tomó una decisión con información limitada.
+-  Uno de tus compañeros de trabajo de Uber no está haciendo su trabajo correctamente. ¿Qué harías?
+-  ¿Cuál ha sido su mayor logro en el trabajo hasta ahora?
+-  Dime un momento en el que no lograste alcanzar una meta.
+-  ¿Por qué quieres dejar tu trabajo?
+-  ¿Dónde te ves en cinco años?
+-  ¿Cuáles son sus expectativas salariales en este puesto aquí en Uber?
+-  Ese es el final de tu entrevista con Uber. ¿Tiene preguntas para el panel?
