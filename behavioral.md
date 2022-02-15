@@ -1,24 +1,24 @@
-# Uber frequently questions
--  Cuéntame sobre ti.
--  ¿Por qué quieres trabajar para Uber?
--  Dime lo que sabes sobre Uber.
--  ¿Cuáles son las habilidades y cualidades más importantes necesarias para trabajar en Uber?
--  Hábleme de una vez que resolvió un desacuerdo con un miembro del equipo.
--  ¿Cuáles son sus fortalezas y debilidades?
--  ¿Qué significa para usted un excelente servicio al cliente?
--  ¿Cómo priorizas tu trabajo?
--  ¿Por qué deberíamos contratarte para trabajar en Uber?
--  Hábleme de un problema que tuvo que resolver en un puesto anterior.
--  ¿Cómo gestionarías un proyecto de principio a fin?
--  Si necesitara información importante de un experto rápidamente pero no respondiera, ¿qué haría?
--  ¿Qué no le gustó de su último trabajo?
--  Describe un momento en el que recibiste comentarios constructivos de alguien. ¿Cómo respondiste a los comentarios? 
--  Hábleme de un momento en el que fue más allá de lo que se requería.
--  Hábleme de un momento en el que tomó una decisión con información limitada.
--  Uno de tus compañeros de trabajo de Uber no está haciendo su trabajo correctamente. ¿Qué harías?
--  ¿Cuál ha sido su mayor logro en el trabajo hasta ahora?
--  Dime un momento en el que no lograste alcanzar una meta.
--  ¿Por qué quieres dejar tu trabajo?
--  ¿Dónde te ves en cinco años?
--  ¿Cuáles son sus expectativas salariales en este puesto aquí en Uber?
--  Ese es el final de tu entrevista con Uber. ¿Tiene preguntas para el panel?
+# Uber frequently interview questions
+- Tell me about yourself.
+- Why do you want to work for Uber?
+- Tell me what you know about Uber.
+- What are the most important skills and qualities needed to work at - Uber?
+- Tell me about a time you resolved a disagreement with a team member.
+- What are your strengths and weaknesses?
+- What does excellent customer service mean to you?
+- How do you prioritize your work?
+- Why should we hire you to work at Uber?
+- Tell me about a problem you had to solve in a previous role.
+- How would you manage a project from beginning to end?
+- If you needed some important information from an expert quickly but - they were not responding, what would you do? 
+- What didn’t you like about your last job?  
+- Describe a time when you received constructive feedback from someone. - How did you respond to the feedback?  
+- Tell me about a time when you went above and beyond what was required.
+- Tell me about a time when you made a decision with limited - information.
+-  One of your Uber co-workers isn’t doing their job properly. What - would you do?
+- What’s been your greatest achievement at work so far?
+- Tell me a time when you failed to achieve a goal.
+- Why do you want to leave your job?
+- Where do you see yourself in five years?
+- What are your salary expectations in this role here at Uber?
+- That’s the end of your Uber interview. Do you have questions for the - panel?
