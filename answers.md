@@ -4,7 +4,7 @@ Hello I'm William Frank. I'm a computer science student at Tecnologico de Monter
 - Why do you want to work for Uber?
 I want to work at Uber because I love the User Interface of Uber because is intuitive and easy to use that allows us to travel quickly and safe. I would like to take big challenges at Uber like learn new languages, technologies, architectures, and frameworks and learn best practices and ways to maintain a big codebase with millions of users at the same time by having a opportunity to work with a team of people who are passionate about technology, as me. -- (41s)
 - Tell me what you know about Uber.
-Uber es una empresa que fue fundada por dos personas que se encontraban esperando un taxi en paris y como tardaron horas esperando y pasando frio. Se les ocurrio la idea de crear una aplicacion que con solo presionar un boton se pueda pedir un taxi en la zona que se encuentra. -- (40s)
+Uber is a company that was founded by two people who were waiting for a cab in Paris and as it took hours waiting and getting cold. They came up with the idea of creating an application that with the push of a button you can order a cab in the area you are in. -- (40s)
 - What are the most important skills and qualities needed to work at - Uber?
 Resilience, communication, and problem solving are the most important skills and qualities needed to work at Uber. -- (40s)
 - Tell me about a time you resolved a disagreement with a team member.
